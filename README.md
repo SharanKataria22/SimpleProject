@@ -1,1 +1,1 @@
-This is my Simple Project
+This is my Simple Web Project.
